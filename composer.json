@@ -1,0 +1,11 @@
+{
+    "name": "root/currency_converter",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+	"classmap": [ "src/" ]
+    }
+}

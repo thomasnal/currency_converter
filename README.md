@@ -1,1 +1,3 @@
-# currency_converter
+# Currency Converter
+
+See comments at class definition.
